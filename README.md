@@ -103,16 +103,6 @@ npm start
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to improve.
-
----
-
-## 📄 License
-
-[MIT](LICENSE)
-
----
-
-Would you like me to also **add some visual diagrams** (like a workflow pipeline or architecture diagram) inside the README for better appeal, or keep it text-only and clean?
+ 
+ 
+ 
